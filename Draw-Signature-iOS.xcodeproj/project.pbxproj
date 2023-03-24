@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA3068E229CDA2860060B12D /* SignatureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3068E129CDA2860060B12D /* SignatureView.swift */; };
 		FABC5F5A29BEC5B600628BB6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABC5F5929BEC5B600628BB6 /* AppDelegate.swift */; };
 		FABC5F5C29BEC5B600628BB6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABC5F5B29BEC5B600628BB6 /* SceneDelegate.swift */; };
 		FABC5F5E29BEC5B600628BB6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABC5F5D29BEC5B600628BB6 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA3068E129CDA2860060B12D /* SignatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignatureView.swift; sourceTree = "<group>"; };
 		FABC5F5629BEC5B600628BB6 /* Draw-Signature-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Draw-Signature-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FABC5F5929BEC5B600628BB6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FABC5F5B29BEC5B600628BB6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				FABC5F5929BEC5B600628BB6 /* AppDelegate.swift */,
 				FABC5F5B29BEC5B600628BB6 /* SceneDelegate.swift */,
 				FABC5F5D29BEC5B600628BB6 /* ViewController.swift */,
+				FA3068E129CDA2860060B12D /* SignatureView.swift */,
 				FABC5F5F29BEC5B600628BB6 /* Main.storyboard */,
 				FABC5F6229BEC5B800628BB6 /* Assets.xcassets */,
 				FABC5F6429BEC5B800628BB6 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				FABC5F5E29BEC5B600628BB6 /* ViewController.swift in Sources */,
 				FABC5F5A29BEC5B600628BB6 /* AppDelegate.swift in Sources */,
 				FABC5F5C29BEC5B600628BB6 /* SceneDelegate.swift in Sources */,
+				FA3068E229CDA2860060B12D /* SignatureView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
